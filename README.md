@@ -1,5 +1,6 @@
 # Hello. My name is inao.
 I'm 21 yo guy from Czech Republic (Or Czechia if you want to trigger everyone living in my country), trying to code useful stuff. And sometimes it works, that's suprising.
+
 If you want to call me using my real life name, you can call me base64_decode("SmFrdWI="); (That was unexpected 👀)
 
 # Skills?
@@ -10,9 +11,13 @@ Outside of IT in general (I can build you a PC, choose you a networking device o
 
 # Contact
 Do you want to reach me? Well, it's easier than you think.
+
 Email #1: base64_decode("b25lbW9yZXBsYXlzY3pAZ21haWwuY29t");
+
 Email #2: base64_decode("aW5hb0BpbmFvLnhuLS02ZnJ6ODJn");
+
 You know, just to prevent spam bots.
 
 # Searching
-Right now, I'm also searching for a second job in addition to my main job in Corporate. Do you have anything? Contact me. :)
+Right now, I'm also searching for a second job in addition to my main job in Corporate.
+Do you have anything? Contact me. :)
