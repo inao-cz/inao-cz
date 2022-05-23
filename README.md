@@ -1,5 +1,5 @@
 # Hello. My name is inao.
-I'm 21 yo guy from Czech Republic (Or Czechia if you want to trigger everyone living in my country), trying to code useful stuff. And sometimes it works, that's suprising.
+I'm 21 yo someone from Czech Republic (Or Czechia if you want to trigger everyone living in my country), trying to code useful stuff. And sometimes it works, that's suprising.
 
 If you want to call me using my real life name, you can call me base64_decode("SmFrdWI="); (That was unexpected 👀)
 
