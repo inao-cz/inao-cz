@@ -9,6 +9,8 @@ Well 🤔, I'm still in process of learning a lot. But I'd confidentially say th
 # Interests
 Outside of IT in general (I can build you a PC, choose you a networking device or develop something), I enjoy talking about cars but I'm not a 👨‍🔧. Also I'm interested about money and how stocks markets work.
 
+Currently experimenting with Web3 using IPFS
+
 # Contact
 Do you want to reach me? Well, it's easier than you think.
 
