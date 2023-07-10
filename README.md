@@ -16,8 +16,6 @@ Do you want to reach me? Well, it's easier than you think.
 
 Email #1: base64_decode("b25lbW9yZXBsYXlzY3pAZ21haWwuY29t");
 
-Email #2: base64_decode("aW5hb0BpbmFvLnhuLS02ZnJ6ODJn");
-
-LinkedIn: base64_decode("aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2pha3ViLWthJUM1JUExcGFyLTM5MjYwNTE3NS8=");
+LinkedIn: base64_decode("aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2pha3ViLWstMzkyNjA1MTc1Lw==");
 
 You know, just to prevent spam bots.
