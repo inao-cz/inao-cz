@@ -1,15 +1,11 @@
 # Hello. My name is inao.
-I'm 21 yo someone from Czech Republic (Or Czechia if you want to trigger everyone living in my country), trying to code useful stuff. And sometimes it works, that's suprising.
-
-If you want to call me using my real life name, you can call me base64_decode("SmFrdWI="); (That was unexpected 👀)
+I'm a 23-year-old from the Czech Republic (or Czechia, if you want to trigger everyone who lives in my country) who tries to code useful things. And sometimes it works, which is surprising..
 
 # Skills?
-Well 🤔, I'm still in process of learning a lot. But I'd confidentially say that my Java skills aren't the lowest and the same goes for PHP. It's different story about other popular languages like Python (I hate this language. War can start now 🤯). But I'm trying to learn Rust these days and one day, maybe even C++.
+Well 🤔, I'm still learning a lot. But I can confidently say that my Java skills aren't the lowest, and the same goes for PHP. It's a different story with other popular languages like Python (I hate this language. War can start now 🤯). Cuurently also learning Go and Rust.
 
 # Interests
-Outside of IT in general (I can build you a PC, choose you a networking device or develop something), I enjoy talking about cars but I'm not a 👨‍🔧. Also I'm interested about money and how stocks markets work.
-
-Currently experimenting with Web3 using IPFS
+Outside of IT in general (I can build you a PC, choose you a network device or develop something), I like to talk about cars, but I'm not a 👨‍🔧. I'm also interested in money and how the stock market works.
 
 # Contact
 Do you want to reach me? Well, it's easier than you think.
